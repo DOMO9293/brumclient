@@ -13,11 +13,11 @@ You can run the app with `expo start`
 
 ## Author
 * Jaesook Jeong -Front-End Software Developer - [Website](https://domo9293.github.io/portfolio) | [LinkedIn](https://www.linkedin.com/in/jaesook-jeong-7499b71aa) 
- * Hands on experience with React Native for native apps development 
- * Built a 1:1 Chat System using Cloud Firestore 
- * Implemented OAuth with Firebase
- * Created a bunch of React container components to integrated with Redux.
- * Developed RESTful services to provide all the CRUD capabilities. 
- * Built the notification function using “PUSH notification” of EXPO 
- * Designed dynamic and browser compatible components using Styled-Components.  
+  * Hands on experience with React Native for native apps development 
+  * Built a 1:1 Chat System using Cloud Firestore 
+  * Implemented OAuth with Firebase
+  * Created a bunch of React container components to integrated with Redux.
+  * Developed RESTful services to provide all the CRUD capabilities. 
+  * Built the notification function using “PUSH notification” of EXPO 
+  * Designed dynamic and browser compatible components using Styled-Components.  
 * Haejun Kim -Back-End Developer 
